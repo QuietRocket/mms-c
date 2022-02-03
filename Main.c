@@ -7,6 +7,8 @@ void log(char* text) {
     fflush(stderr);
 }
 
+//test push
+
 int main(int argc, char* argv[]) {
     log("Running...");
     API_setColor(0, 0, 'G');
